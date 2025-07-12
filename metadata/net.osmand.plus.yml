@@ -7599,9 +7599,9 @@ Builds:
         en-US: An unique installation ID is sent alongside map download requests,
           can be disabled in Settings
 
-  - versionName: 5.1.6
-    versionCode: 510601
-    commit: v5.1.6
+  - versionName: 5.1.7
+    versionCode: 510701
+    commit: v5.1.7
     timeout: 20000
     subdir: android/OsmAnd
     submodules: true
@@ -7631,9 +7631,9 @@ Builds:
     antifeatures:
       - Tracking
 
-  - versionName: 5.1.6
-    versionCode: 510602
-    commit: v5.1.6
+  - versionName: 5.1.7
+    versionCode: 510702
+    commit: v5.1.7
     timeout: 20000
     subdir: android/OsmAnd
     submodules: true
@@ -7663,9 +7663,9 @@ Builds:
     antifeatures:
       - Tracking
 
-  - versionName: 5.1.6
-    versionCode: 510603
-    commit: v5.1.6
+  - versionName: 5.1.7
+    versionCode: 510703
+    commit: v5.1.7
     timeout: 20000
     subdir: android/OsmAnd
     submodules: true
